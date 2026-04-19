@@ -58,4 +58,4 @@ finished:
 3. Install the required plugins listed above
 
 ---
-*Published via [Vault Hub](https://vaulthub.dev)*
+*Published via [Vault Hub](https://obsidianvaulthub.com)*
